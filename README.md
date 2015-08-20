@@ -1,5 +1,7 @@
 ## August-19-2015
 
+## http://github.com/ga-sf-study-group/august-19-2015/
+
 # [Click here to give us feedback and let us know what you want!](http://goo.gl/forms/FbV0D7K5ww)
 
 ### Problem 1: Length of Last Word
